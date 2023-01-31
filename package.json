@@ -1,19 +1,33 @@
 {
-  "name": "telcel-custom-input",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@telcel/telcel-custom-input",
+  "version": "1.0.1",
   "main": "index.js",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "peerDependencies": {
+    "react": ">=15.0.1",
+    "react-dom": ">=15.0.1"
+  },
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "react": ">=15.0.1",
+    "react-dom": ">=15.0.1",
+    "react-scripts": "5.0.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/reneMorgado/telcel-custom-input-test.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/reneMorgado/telcel-custom-input-test/issues"
   },
-  "homepage": "https://github.com/reneMorgado/telcel-custom-input-test#readme"
+  "homepage": "https://github.com/reneMorgado/telcel-custom-input-test#readme",
+  "description": ""
 }
