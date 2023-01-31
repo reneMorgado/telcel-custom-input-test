@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "peerDependencies": {
     "react": ">=15.0.1",
