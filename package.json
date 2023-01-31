@@ -1,5 +1,5 @@
 {
-  "name": "@telcel/telcel-custom-input",
+  "name": "@renetest/telcel-custom-input",
   "version": "1.0.1",
   "main": "index.js",
   "publishConfig": {
